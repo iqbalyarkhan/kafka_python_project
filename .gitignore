@@ -1,0 +1,7 @@
+.DS_Store
+.Python
+*.rtf
+bin/
+lib/
+include/
+creds.txt
