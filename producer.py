@@ -65,11 +65,6 @@ stream.filter(track="trump")
 # from tweepy import Stream
 # from kafka import SimpleProducer, KafkaClient
 
-# consumer_key = "ZDi0OgYJDMX2M2LRT5IuQxksK"
-# consumer_secret = "GCatF6dlW8IWourUqwq242eM4P7Cv7IzdI2CnEKPidHeSWhaab"
-# access_token = "118624642-anzPcTxzNJvv5gbNUUswe7Ttf4rn7kw8vmesjQAW"
-# access_secret = "3MHZP7fSEqkjC4nxf8YSCJsMtLZkU6xKKIolpvkZ7gkVR"
-
 # class StdOutListener(StreamListener):
 #     def on_data(self, data):
 #         producer.send_messages("trump", data.encode('utf-8'))
