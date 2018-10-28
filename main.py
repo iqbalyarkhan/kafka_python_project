@@ -8,10 +8,10 @@ from kafka.producer import SimpleProducer
 
 client = SimpleClient("localhost:8080")
 producer = SimpleProducer(client)
-consumer_key = "ZDi0OgYJDMX2M2LRT5IuQxksK"
-consumer_secret = "GCatF6dlW8IWourUqwq242eM4P7Cv7IzdI2CnEKPidHeSWhaab"
-access_token = "118624642-anzPcTxzNJvv5gbNUUswe7Ttf4rn7kw8vmesjQAW"
-access_secret = "3MHZP7fSEqkjC4nxf8YSCJsMtLZkU6xKKIolpvkZ7gkVR"
+consumer_key = ""
+consumer_secret = ""
+access_token = ""
+access_secret = ""
 
 def main():
             '''
