@@ -9,10 +9,7 @@ from kafka import SimpleProducer, KafkaClient
 
 # client = SimpleClient("localhost:9092")
 # producer = SimpleProducer(client)
-consumer_key = "O2LeBl8mMctUukKbKZ5qr66jo"
-consumer_secret = "bLTeUJOj1mavg0yH3YRqlf4fLYuA0MzAXQCpZxr2thQ0rWL6y3"
-access_token = "118624642-vHCQWviitNV2P72LbsrTdeY1KYiBKJKzOd97YDUs"
-access_token_secret = "elw6KitjKuwBNOnB1sFYHUXKL8j86TdhNL16KvkgcLBEn"
+
 #Import the necessary methods from tweepy library
 
 class StdOutListener(StreamListener):
